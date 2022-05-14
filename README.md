@@ -5,7 +5,7 @@ Deployed Website: https://pcchase617.github.io/updated_portfolio/
 
 ![alt text](https://raw.githubusercontent.com/pcchase617/updated_portfolio/main/deployed%20website.PNG)
 
-I redisgned my web portfolio to have an about me, with a brief explanation of who I am
+I redesigned my web portfolio to have an about me, with a brief explanation of who I am
 
 I made an experience section that describes my work experience
 
