@@ -113,3 +113,12 @@ a {
   color: #38bd3c; }
   a:hover, a:focus, a:active {
     color: #27822f; }
+
+.projectimages {
+  height: 300px;
+  /* width: ; */
+}
+
+#interests {
+  justify-content: center;
+}
